@@ -1,0 +1,9 @@
+pyspark
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+tweepy  # For accessing Twitter API
+praw    # For accessing Reddit API
+nltk    # Natural Language Toolkit
