@@ -45,7 +45,7 @@ This project focuses on performing sentiment analysis using PySpark. The data is
 
 ## How to Use
 1. Clone this repository.
-`git clone [https://github.com/yourusername/sentiment-analysis-pyspark.git](https://github.com/yashnilapwar/Sentiment-Analysis-using-Pyspark.git)`
+`git clone https://github.com/yashnilapwar/Sentiment-Analysis-using-Pyspark.git`
 2. Install the required dependencies using `pip install -r requirements.txt`.
 
 
